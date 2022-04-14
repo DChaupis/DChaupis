@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I' m David Chaupis-Meza aka Dave</h1>
+<h1 align="center">I' m David Chaupis-Meza aka Dave</h1>
 <h3 align="center">CEO Biogenia | Consultant on Biotech Innovations | Data Analyst as Epidemiologist Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dchaupis&label=Profile%20views&color=0e75b6&style=plastic" alt="dchaupis" /> </p>
